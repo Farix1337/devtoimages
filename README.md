@@ -1,2 +1,2 @@
 # devtoimages
-dev to does not allow me to host pictures
+images for dev.to and other dev blog platforms
